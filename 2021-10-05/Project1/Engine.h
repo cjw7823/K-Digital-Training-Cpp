@@ -26,9 +26,9 @@ public:
 
 	Player* player;
 	Map* map;
+
 	void Run();
 	
-
 private:
 	void Initialize();
 	void Input();
